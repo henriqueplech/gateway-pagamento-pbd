@@ -1,4 +1,4 @@
-# 💳 Gateway de Pagamento — Projeto PBD
+# 💳 Gateway de Pagamento — Projeto BD
 
 > Projeto acadêmico para a disciplina de **Projeto de Banco de Dados (PBD)** — CESMAC.
 > Modelagem e implementação de um banco de dados para um sistema de gateway de pagamentos.
