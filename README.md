@@ -13,7 +13,7 @@
 
 | Papel       | Nome                  |
 |-------------|-----------------------|
-| Professora  | Tacyana               |
+| Professora  | Tacyana Batista       |
 | Aluno       | Henrique Ferrario     |
 | Aluno       | João Danilo           |
 
