@@ -7,3 +7,5 @@ Quando um cliente realiza uma compra em um lojista, o sistema registra uma trans
 Caso uma transação aprovada precise ser desfeita, o sistema registra um estorno vinculado àquela transação, contendo o valor a ser devolvido, o motivo e o status do processo de estorno.
 
 Periodicamente, o gateway realiza repasses financeiros aos lojistas, consolidando o valor líquido das transações aprovadas e transferindo para a conta bancária cadastrada. Cada repasse possui uma data prevista e um status de processamento.
+
+
